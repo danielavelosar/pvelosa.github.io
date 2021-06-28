@@ -1,0 +1,19 @@
+{
+  "name": "pvelosa.github.io",
+  "version": "1.0.0",
+  "description": "my page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvelosa/pvelosa.github.io.git"
+  },
+  "author": "Paula Daniela Velosa Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvelosa/pvelosa.github.io/issues"
+  },
+  "homepage": "https://github.com/pvelosa/pvelosa.github.io#readme"
+}
